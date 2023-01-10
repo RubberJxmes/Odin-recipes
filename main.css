@@ -1,0 +1,22 @@
+.dio {
+    height: auto;
+    width: 800px;
+    
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+div , p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    animation: color-change 4s infinite;
+}
+@keyframes color-change {
+    0% {color: #f8c54b}
+    25% {color: #f8d14b}
+    50% {color: #c3f671}
+    75% {color: #d8decc}
+    100% {color: #bfc3a9}
+}
