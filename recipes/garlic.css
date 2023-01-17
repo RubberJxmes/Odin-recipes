@@ -1,0 +1,15 @@
+img {
+    height: auto;
+    width: 500px;
+    text-align: center;
+}
+
+p {
+    font-size: 25;
+    color: green;
+}
+
+li {
+    font-size: 20;
+    color: blueviolet;
+}
